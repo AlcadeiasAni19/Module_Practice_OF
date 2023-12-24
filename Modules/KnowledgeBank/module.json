@@ -1,0 +1,11 @@
+{
+    "name": "KnowledgeBank",
+    "alias": "knowledgebank",
+    "description": "",
+    "keywords": [],
+    "priority": 0,
+    "providers": [
+        "Modules\\KnowledgeBank\\app\\Providers\\KnowledgeBankServiceProvider"
+    ],
+    "files": []
+}

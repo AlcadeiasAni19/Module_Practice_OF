@@ -1,0 +1,7 @@
+{
+    "Authorization": true,
+    "KnowledgeBank": true,
+    "Products": true,
+    "Orders": true,
+    "Companies": true
+}
